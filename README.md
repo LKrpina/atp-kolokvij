@@ -32,5 +32,5 @@
 - [ ]Izraditi kratku tablicu s informacijama o projektu
 - [x]Napraviti commit promjena s odgovarajućom porukom
 - [x]Otvoriti pull request unutar vlastitog repozitorija
-- [ ]Dodati LICENSE.md datoteku s MIT licencom
-- [ ]Aktivirati GitHub Pages za repozitorij
+- [x]Dodati LICENSE.md datoteku s MIT licencom
+- [x]Aktivirati GitHub Pages za repozitorij
